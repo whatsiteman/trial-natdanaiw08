@@ -2,7 +2,7 @@
 
 menu: บริการ
 
-image: images/pic.jpg
+image: images/office-820390_1920.jpg
 
 title: PURPOSE AND USAGE
 
