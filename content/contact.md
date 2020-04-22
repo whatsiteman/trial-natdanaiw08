@@ -1,6 +1,6 @@
 ---
 
-menu: Contact
+menu: ติดต่อเรา
 
 icon: messenger # เลือกได้เฉพาะ messenger|facebook|twitter|github|youtube|email
 
