@@ -1,5 +1,5 @@
 ---
-menu: home
+menu: หน้าหลัก
 title: LOREM IPSUM IS PLACEHOLDER
 image: images/pic.jpg
 ---
