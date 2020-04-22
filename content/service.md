@@ -1,6 +1,6 @@
 ---
 
-menu: Service
+menu: บริการ
 
 image: images/pic.jpg
 
