@@ -1,33 +1,44 @@
 ---
 
-menu: ติดต่อเรา
+menu: คุณสมบัติ
 
-icon: messenger # เลือกได้เฉพาะ messenger|facebook|twitter|github|youtube|email
+title: Summing up, if the copy is diverting attention from the design it’s because it’s not up to task.
 
-title: Stay Connected!
+description: Lorem Ipsum is a tool that can be useful, used intentionally it may help solve some problems. If you go about content strategy the wrong way, fix that problem.
 
-description: Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out.
+subtitle: What is Lorem Ipsum?
 
-button_text: Contact me!
+subdescription: Lorem Ipsum is a tool that can be useful, used intentionally it may help some problems.
 
-button_link: https://m.me/whatsiteman
+list:    
+    - title: Variations
+
+      image: images/pic.jpg
+
+      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
 
 
+
+    - title: Suffered
+
+      image: images/pic.jpg
+
+      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
+
+
+
+    - title: Passages of Lorem Ipsum
+
+      image: images/pic.jpg
+
+      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
 ---
 
-# Contact
+### Development
 
-Whatsiteman uses a number of open source projects to work properly:
+Want to contribute? Great!
 
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
+It uses Gulp + Webpack for fast developing.
+Make a change in your file and instantaneously see your updates!
 
-And of course itself is open source with a [public repository][dill]
- on GitHub.
+Open your favorite Terminal and run these commands.
