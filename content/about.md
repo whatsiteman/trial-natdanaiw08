@@ -1,5 +1,5 @@
 ---
-menu: หน้าแรก
+menu: เกี่ยวกับเรา
 image: images/pic.jpg
 title: PURPOSE AND USAGE
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
