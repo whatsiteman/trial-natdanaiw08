@@ -1,5 +1,5 @@
 ---
-menu: About
+menu: หน้าแรก
 image: images/pic.jpg
 title: PURPOSE AND USAGE
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
