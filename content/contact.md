@@ -2,43 +2,32 @@
 
 menu: ติดต่อเรา
 
-title: Summing up, if the copy is diverting attention from the design it’s because it’s not up to task.
+icon: messenger # เลือกได้เฉพาะ messenger|facebook|twitter|github|youtube|email
 
-description: Lorem Ipsum is a tool that can be useful, used intentionally it may help solve some problems. If you go about content strategy the wrong way, fix that problem.
+title: Stay Connected!
 
-subtitle: What is Lorem Ipsum?
+description: Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out.
 
-subdescription: Lorem Ipsum is a tool that can be useful, used intentionally it may help some problems.
+button_text: Contact me!
 
-list:    
-    - title: Variations
-
-      image: images/pic.jpg
-
-      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
+button_link: https://m.me/whatsiteman
 
 
-
-    - title: Suffered
-
-      image: images/pic.jpg
-
-      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
-
-
-
-    - title: Passages of Lorem Ipsum
-
-      image: images/pic.jpg
-
-      description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
 ---
 
-### Development
+# Contact
 
-Want to contribute? Great!
+Whatsiteman uses a number of open source projects to work properly:
 
-It uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
+* [AngularJS] - HTML enhanced for web apps!
+* [Ace Editor] - awesome web-based text editor
+* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Gulp] - the streaming build system
+* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
+* [jQuery] - duh
 
-Open your favorite Terminal and run these commands.
+And of course itself is open source with a [public repository][dill]
+ on GitHub.
