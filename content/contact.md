@@ -1,6 +1,6 @@
 ---
 
-menu: คุณสมบัติ
+menu: ติดต่อเรา
 
 title: Summing up, if the copy is diverting attention from the design it’s because it’s not up to task.
 
